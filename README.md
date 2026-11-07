@@ -6,7 +6,6 @@ The same C++ classes also run as a normal terminal program (for OnlineGDB).
 
 - **Website:** `web/` (open the Vercel link, or run it locally; see below)
 - **Terminal version:** `src/main.cpp`, or the one-file copy `onlinegdb/GradeTracker_SingleFile.cpp`
-- **How it works, in plain English:** [EXPLAIN.md](EXPLAIN.md)
 - **Every bug we hit and how we fixed it:** [DEBUG_LOG.md](DEBUG_LOG.md)
 
 ---
